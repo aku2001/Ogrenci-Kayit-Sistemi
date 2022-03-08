@@ -1,0 +1,2 @@
+Code: BLM3580, Name: Sistem Programlama, Credit: 3
+Code: BLM4780, Name: Veri Tabani Sistemlerinde Guncel Konular, Credit: 5
