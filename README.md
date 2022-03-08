@@ -1,5 +1,7 @@
 # Ogrenci Kayit Sistemi
 
+Bu projede üniversitelerde kullanılabilecek öğrenci ders kayıt sistemi yapılmıştır. Bir tane ana menü ve farklı alt menülerden oluşmaktadır. Bu proje kapsamında öğrenci derse kaydolabilir veya dersi bırakabilir, yeni bir öğrenci oluşturulabilir veya eski bir öğrenci silinebilir. Yeni bir ders eklenebilir veya var olan bir ders silinebilir. Bütün alt menü seçim işlemleri ana menüden yapılmaktadır. Bu projede dinamik bellek yönetimi ve struct yapıları kullanılmıştır.
+
 ## İçindekiler:
 
     Not - Bilgilendirme
